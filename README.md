@@ -19,7 +19,7 @@ Once the data was imported into Power BI, relationships between the tables were 
    - `match_data[team_id]` was related to `fix_data[FxHTID]`
    - `match_data[PLID]` was related to `team_data[PLID]`
 
-   ![Model](Images\model.png)
+   ![Model](https://github.com/hectorherreraespinola/MunsterRugby/blob/main/Images/model.png)
 
 ### 5. Creating Measures
 In Power BI, measures were created to calculate the total carries by Munster Rugby as a home team and as an away team. These measures helped in analyzing the performance of the team in different scenarios.
@@ -29,7 +29,7 @@ Finally, visualizations were created in Power BI to display the calculated measu
    - The first card displayed the total carries by Munster Rugby as a home team.
    - The second card displayed the total carries by Munster Rugby as an away team.
 
-   ![Dashboard](Images\dashboard.png)
+   ![Dashboard](https://github.com/hectorherreraespinola/MunsterRugby/blob/main/Images/dashboard.png)
 
 
 ## Conclusion
