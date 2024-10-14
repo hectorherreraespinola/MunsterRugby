@@ -22,12 +22,14 @@ Once the data was imported into Power BI, relationships between the tables were 
    ![Model](https://github.com/hectorherreraespinola/MunsterRugby/blob/main/Images/model.png)
 
 ### 5. Creating Measures
-In Power BI, measures were created to calculate the total carries by Munster Rugby as a home team and as an away team. These measures helped in analyzing the performance of the team in different scenarios.
+In Power BI, measures were created to calculate the total carries and minutues played by Munster Rugby as a home team and as an away team. These measures helped in analyzing the performance of the team in different scenarios.
 
 ### 6. Creating Visualizations
 Finally, visualizations were created in Power BI to display the calculated measures. Two card visuals were added:
-   - The first card displayed the total carries by Munster Rugby as a home team.
-   - The second card displayed the total carries by Munster Rugby as an away team.
+   - The first card displayed  the total minutss played by Munster Rugby as a home team.
+   - The second card displayed the total minutes player by Munster Rugby as away team.
+   - The third card displayer the total carries by Munster Rugby as a home team.
+   - The fourth card displayed the total carries by Munster Rugby as an away team.
 
    ![Dashboard](https://github.com/hectorherreraespinola/MunsterRugby/blob/main/Images/dashboard.png)
 
