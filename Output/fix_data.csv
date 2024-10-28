@@ -1,4 +1,5 @@
-FxDate,FxWeek,FxTID,FxHTID,hometeam,homeHEX,FxATID,awayteam,awayHEX,HTFTSC,ATFTSC,REFID,Pathname,Leadtime,REFNAME
-17/05/2024,17,204,1950,Edinburgh Rugby,#CC0000,2150,Munster Rugby,#B9292F,26,29,1000854,,10,Gianluca Gnecchi
-07/06/2024,19,204,2150,Munster Rugby,#B9292F,3250,Ospreys,#66D4F5,23,7,1000761,,10,Hollie Davidson
-15/06/2024,20,204,2150,Munster Rugby,#B9292F,1750,Glasgow Warriors,#FFFFFF,10,17,1000716,,10,Andrea Piardi
+
+FxDate,FxWeek,FxTID,FxHTID,hometeam,homeHEX,FxATID,awayteam,awayHEX,HTFTSC,ATFTSC,REFID,Pathname,Leadtime,REFNAME,FXID
+17/05/2024,17,204,1950,Edinburgh Rugby,#CC0000,2150,Munster Rugby,#B9292F,26,29,1000854,,10,Gianluca Gnecchi,938734
+07/06/2024,19,204,2150,Munster Rugby,#B9292F,3250,Ospreys,#66D4F5,23,7,1000761,,10,Hollie Davidson,938749
+15/06/2024,20,204,2150,Munster Rugby,#B9292F,1750,Glasgow Warriors,#FFFFFF,10,17,1000716,,10,Andrea Piardi,938754
