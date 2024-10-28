@@ -16,8 +16,9 @@ The CSV files (`team_data.csv`, `match_data.csv`, and `fixture_data.csv`) were i
 
 ### 4. Establishing Relationships
 Once the data was imported into Power BI, relationships between the tables were established. This was done in the `Model` view in Power BI. The relationships were created based on common columns:
-   - `match_data[team_id]` was related to `fix_data[FxHTID]`
-   - `match_data[PLID]` was related to `team_data[PLID]`
+   - `fix_data[FXID]` was related to `match_data[FXID]`
+   - `fix_data[FXID]` was related to `team_data[FXID]`
+   - `team_data[PLID]` was related to `match_data[PLID]`
 
    ![Model](https://github.com/hectorherreraespinola/MunsterRugby/blob/main/Images/model.png)
 
