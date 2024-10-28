@@ -27,10 +27,10 @@ In Power BI, measures were created to calculate the total carries and minutues p
 
 ### 6. Creating Visualizations
 Finally, visualizations were created in Power BI to display the calculated measures. Two card visuals were added:
-   - The first card displayed  the total minutss played by Munster Rugby as a home team.
-   - The second card displayed the total minutes player by Munster Rugby as away team.
-   - The third card displayer the total carries by Munster Rugby as a home team.
-   - The fourth card displayed the total carries by Munster Rugby as an away team.
+   - The first card displayed  the total minutes played as a home team.
+   - The second card displayed the total minutes played by asa  away team.
+   - The third card displayer the total carries as a home team.
+   - The fourth card displayed the total carries as an away team.
 
    ![Dashboard](https://github.com/hectorherreraespinola/MunsterRugby/blob/main/Images/dashboard.png)
 
